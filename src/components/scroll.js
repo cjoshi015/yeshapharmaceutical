@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollingProvider, SectionLink, Section, Item} from 'react-scroll-section';
+import { ScrollingProvider, SectionLink, Section} from 'react-scroll-section';
 
 const Scroll = () => (
 

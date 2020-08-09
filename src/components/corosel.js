@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import {Carousel} from 'react-bootstrap';
-import { render } from '@testing-library/react';
-import { Form } from 'react-bootstrap'; 
 
 class Corosel extends Component{
     render(){

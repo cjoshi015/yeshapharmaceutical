@@ -5,11 +5,11 @@ import {Navbar , Nav, NavDropdown} from 'react-bootstrap';
 class Navigationbar extends Component{
     render(){
         return(
-            <Navbar bg="primary" variant="dark" expand="lg">
+            <Navbar className="navbar-color" expand="lg">
             <Navbar.Brand href="#home">Yesha Pharmaceutical</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
-                <Nav className="mr-auto">
+                <Nav className="mr-auto navbar-menu">
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="#link">About</Nav.Link>
                 <Nav.Link href="#contactus">Contact Us</Nav.Link>
