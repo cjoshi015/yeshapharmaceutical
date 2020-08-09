@@ -29,7 +29,9 @@ function Footer(){
                         <h4>Contact Us</h4>
                         <ul className="list-styled">
                             <li>Yesha Pharmaceutical</li>
-                           
+                            <li>Shop NO. A-52,Neminath Shopping Mall</li>
+                            <li>Opp. Tehsil Sagwara, Dungarpur,Rajasthan</li>
+                            <li>Whatsapp - 8529599068 </li>                           
                         </ul>
                     </div>  
                 </div>
