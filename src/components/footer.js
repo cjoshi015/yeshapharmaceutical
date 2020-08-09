@@ -29,9 +29,7 @@ function Footer(){
                         <h4>Contact Us</h4>
                         <ul className="list-styled">
                             <li>Yesha Pharmaceutical</li>
-                            <li>hihidhf</li>
-                            <li>hihidhf</li>
-                            <li>hihidhf</li>
+                           
                         </ul>
                     </div>  
                 </div>
