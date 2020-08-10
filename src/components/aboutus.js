@@ -6,9 +6,9 @@ class Aboutus extends Component{
     render(){
         return(
             <div className="div2">
-                <Alert variant="light">
+                <Alert >
                 <Alert.Heading className="d-flex justify-content-center headingcss" >ABOUT US</Alert.Heading>
-                <p className="d-flex justify-content-end">
+                <p className="d-flex justify-content-end ">
                 The company is committed to improve the lives of the peoples across the globe by continuously seeking advancements in Modern and Innovative Healthcare.
                 Company’s business focuses on providing the comprehensive and strategic marketing and exports of pharmaceutical products to its clients across the globe. 
                 Portfolio includes a wide range of allopathic finished formulations in Oral (Solids & Liquids), Topical (Creams, ointments & Lotions) & Parental 
