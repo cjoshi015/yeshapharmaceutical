@@ -41,7 +41,6 @@ class Ourpartners extends Component{
                         </Card>
                     </div>
                 </div>
-
                     <div className="row">
                         <div className="col-sm-6 roww">
                                 <Card style={{ width: '15rem' }}>
@@ -58,11 +57,11 @@ class Ourpartners extends Component{
                             <Card style={{ width: '15rem' }}>
                             <Card.Img variant="top" src={instas} />
                             <Card.Body>
-                                <Card.Title>Instas Pharmaceutical</Card.Title>
+                                <Card.Title>Intas Pharmaceutical</Card.Title>
                                 <Card.Text>
                                     Stockist in generic medicine,Sagwara
                                 </Card.Text>
-                            </Card.Body>
+                            </Card.Body> 
                             </Card>
                         </div>
                     </div>
