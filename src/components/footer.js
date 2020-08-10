@@ -37,7 +37,7 @@ function Footer(){
                 </div>
                 <div className="footer-bottom">
                     <p className="text-xs-center">
-                        Yesha Pharmaceutical 2019 | Made by Chandan Joshi
+                        Yesha Pharmaceutical 2019 | Developed by <a href="https://github.com/cjoshi015">Chandan Joshi</a>
                     </p>
                 </div>
             </div>
@@ -54,6 +54,10 @@ const FooterContainer = styled.footer`
         background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
         padding-top:3rem;
         color : var(--mainWhite); 
+    }
+
+    .mainfooter{
+        padding-top:10px;
     }
 
     .footer-bottom{
