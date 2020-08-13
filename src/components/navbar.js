@@ -8,7 +8,7 @@ const  ScrollLink = Scroll.ScrollLink;
 class Navigationbar extends Component{
     render(){
         return(
-            <Navbar className="navbar-color navbar navbar-default navbar-static-top" expand="lg">
+            <Navbar className="navbar-color" expand="lg">
             <Navbar.Brand href="#home">
                 <img src={logoimg} className="logoimg" alt="Logoimg"/>
                 Yesha Pharmaceutical
