@@ -31,7 +31,7 @@ function Footer(){
                             <li>Yesha Pharmaceutical</li>
                             <li>Shop NO. A-52,Neminath Shopping Mall</li>
                             <li>Opp. Tehsil Sagwara, Dungarpur,Rajasthan</li>
-                            <li><a href="https://wa.me/+918529599068" className="linkcolor" >Whatsapp - 8529599068 </a></li>                           
+                            <li><a href="https://wa.me/+918529599068" className="linkcolor" >Whatsapp - 8529599068  (Click here to chat with us)</a></li>                           
                         </ul>
                     </div>  
                 </div>
