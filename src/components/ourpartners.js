@@ -9,7 +9,7 @@ import mankind from '../img/mankind.jpg'
 class Ourpartners extends Component{
     render(){
         return(
-            <div className="container imgpartners">
+            <div className="container imgpartners" id="ourpartners">
                 <div className="row">
                     <div className="col-sm-12">
                         <h2>OUR PARTNERS</h2>

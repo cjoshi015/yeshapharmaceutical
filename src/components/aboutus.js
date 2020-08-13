@@ -5,7 +5,7 @@ import {Alert} from 'react-bootstrap';
 class Aboutus extends Component{
     render(){
         return(
-            <div className="div2">
+            <div className="div2" id="aboutus">
                 <Alert >
                 <Alert.Heading className="d-flex justify-content-center headingcss" >ABOUT US</Alert.Heading>
                 <p className="d-flex justify-content-end ">

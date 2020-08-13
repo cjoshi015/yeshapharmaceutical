@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 function Footer(){
     return (
-        <FooterContainer className="mainfooter">
+        <FooterContainer className="mainfooter" id="footer">
             <div className="footer-middle">
             <div className="container">
                 <div className="row">
@@ -11,7 +11,7 @@ function Footer(){
                         <h4>Quick Links</h4>
                         <ul className="list-styled">
                             <li>Home</li>
-                            <li>About Us</li>
+                            <li >About Us</li>
                             <li>Our Products</li>
                             <li>Contact Us</li>
                         </ul>
@@ -31,7 +31,7 @@ function Footer(){
                             <li>Yesha Pharmaceutical</li>
                             <li>Shop NO. A-52,Neminath Shopping Mall</li>
                             <li>Opp. Tehsil Sagwara, Dungarpur,Rajasthan</li>
-                            <li>Whatsapp - 8529599068 </li>                           
+                            <li><a href="https://wa.me/+918529599068" className="linkcolor" >Whatsapp - 8529599068 </a></li>                           
                         </ul>
                     </div>  
                 </div>

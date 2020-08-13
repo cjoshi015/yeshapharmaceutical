@@ -17,8 +17,19 @@
   background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
   font-weight: bold;
   color: blue;
+  position: fixed;
 }
 
+#aboutus{
+  scroll-behavior: smooth;
+  margin-top: 50px;
+}
+.linkcolor{
+  color: green;
+}
+html {
+  scroll-behavior: smooth;
+}
 
 navbar-menu{
   float: right;
@@ -63,6 +74,3 @@ p{
   text-align: center;
 }
 
-.back{
-  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
-}

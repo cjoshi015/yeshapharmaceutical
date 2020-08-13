@@ -6,7 +6,7 @@ import banner3 from '../img/icon.jpg'
 class Corosel extends Component{
     render(){
         return(
-            <Carousel className="carosuel">
+            <Carousel className="carosuel" id="home">
                 <Carousel.Item>
                     <img
                     className="d-block w-100"

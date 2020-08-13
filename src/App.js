@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link, animateScroll as scroll } from "react-scroll";
 import './App.css';
 import Navigationbar from './components/navbar'
 import Corosel from './components/corosel'
