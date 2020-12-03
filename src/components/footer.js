@@ -37,7 +37,8 @@ function Footer(){
                 </div>
                 <div className="footer-bottom">
                     <p className="text-xs-center">
-                        Yesha Pharmaceutical 2019 | Developed by Umang Joshi
+                        Yesha Pharmaceutical 2019 | Developed by <a href="https://chandan-joshi.netlify.app/">Chandan Joshi</a>
+
                     </p>
                 </div>
             </div>
